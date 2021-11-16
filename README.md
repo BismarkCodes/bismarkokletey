@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there. I am [Bismark Amanor](bismarkamanor.vercel.app) 👋
-I'm a software developer and designer based in **Ghana, West Africa**. I am currently working as a front-end developer at **Quacker Technologies Ghana**. I love **playing games**, **swimming**, **music** and **programming** 🥰
+I'm a software developer and designer based in **Ghana, West Africa**. I am currently working as a front-end developer at **Quacker Technologies Ghana**. I love **playing games**, **swimming**, **listening to music** and **programming** 🥰
 
 ## What I'm currently working on:
 
