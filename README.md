@@ -29,7 +29,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <a href='https://github.com/bismarkamanor'><img src='./images/github.png' style='width: 40px; height: 40px; margin-right: 20px;object-fit: contain;' /></a>
 <a href='https://github.com/bismarkamanor'><img src='./images/linkedin.png' style='width: 40px; height: 40px; margin-right: 20px;object-fit: contain;' /></a>
-<a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' style='width: 40px; height: 40px; margin-right: 20px;object-fit: contain;' /></a>
+<a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' style='width: 40px; height: 30px; margin-right: 20px;object-fit: contain;' /></a>
 <a href='https://github.com/bismarkamanor'><img src='./images/facebook.png' style='width: 50px; height: 50px; margin-right: 20px;object-fit: contain;' /></a>
 <a href='https://github.com/bismarkamanor'><img src='./images/youtube.png' style='width: 50px; height: 50px; margin-right: 20px;object-fit: contain;' /></a>
 </div>
