@@ -26,7 +26,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 ## Follow me on
 
-<div style='display: flex; flex-direction: row; align-items: center; height: 80px' >
+<div style='display: flex; flex-direction: row; align-items: center;' >
 <div style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/github.png' style='width: 40px;object-fit: contain;' /></a></div>
 <div style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/linkedin.png' style='width: 40px;object-fit: contain;' /></a></div>
 <div style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' style='width: 40px;object-fit: contain;' /></a></div>
