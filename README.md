@@ -28,9 +28,9 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 <div>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/github.png' style='width: 43px;object-fit: contain;' /></a></span>
-<span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/linkedin.png' style='width: 42px;object-fit: contain;' /></a></span>
+<span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://www.linkedin.com/in/bismark-okletey-amanor/'><img src='./images/linkedin.png' style='width: 42px;object-fit: contain;' /></a></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' style='width: 40px;object-fit: contain;' /></a></span>
-<span style='width: 40px; height: 40px; margin-right: 5px;'><a href='https://github.com/bismarkamanor'><img src='./images/facebook.png' style='width: 40px;object-fit: contain;' /></a></span>
+<span style='width: 40px; height: 40px; margin-right: 5px;'><a href='https://web.facebook.com/bismarkamano'><img src='./images/facebook.png' style='width: 40px;object-fit: contain;' /></a></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/youtube.png' style='width: 60px;object-fit: contain;' /></a></span>
 </div>
 <!--**Github** | **Facebook** | **Twitter** | **LinkedIn** | **Youtube** -->
