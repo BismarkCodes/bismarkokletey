@@ -46,7 +46,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/CSS.png' style='width: 40px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/javascript.png' style='width: 40px;object-fit: contain;' /></span>
 </div>
-
+##
 **Back-end:**
 
 <div style='display: flex; flex-direction: row; align-items: center;' >
@@ -54,7 +54,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/node.png' style='width: 65px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/mysql.png' style='width: 65px;object-fit: contain;' /></span>
 </div>
-
+##
 **People Skills:**
 
 - Good communication skills
