@@ -65,7 +65,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 **Github** | **Facebook** | **Twitter** | **LinkedIn** | **Youtube**
 
-## My hard skills
+## My skills
 
 **Front-end:**
 
