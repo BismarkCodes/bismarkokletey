@@ -19,7 +19,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 ## What I'm currently working on
 
 
- 1. Expense tracker app built with react
+ 1. Expense tracker app built with react-native
  2. Building my Tech startup
 
 ## Follow me on
