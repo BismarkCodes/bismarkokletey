@@ -29,7 +29,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/github.png' style='width: 40px;object-fit: contain;' /></a></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/linkedin.png' style='width: 40px;object-fit: contain;' /></a></span>
-<span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' style='width: 45px;object-fit: contain;' /></a></span>
+<span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' style='width: 40px;object-fit: contain;' /></a></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/facebook.png' style='width: 40px;object-fit: contain;' /></a></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/youtube.png' style='width: 40px;object-fit: contain;' /></a></span>
 </div>
