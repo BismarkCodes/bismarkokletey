@@ -35,32 +35,6 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 </div>
 <!--**Github** | **Facebook** | **Twitter** | **LinkedIn** | **Youtube** -->
 
-## My hard skills
-
-**Front-end:**
-
-- React and React Native
-- HTML, CSS, JavaScript
-
-**Back-end:**
-
-- Firebase
-- MySQL
-
-**People Skills:**
-
-- Good communication skills
-- Good team player
-- Good presentation skills
-
-**Degree's and Certificates:**
-
-- BSc. Computer Science - Regional Maritime University, Ghana
-- [Responsive Web Design Certificate - Freecodecamp.org](https://freecodecamp.org/certification/bismarkokletey/responsive-web-design)
-
-1.  Expense tracker app built with react-native
-2.  Building my Tech startup
-
 ## My skills
 
 **Front-end:**
