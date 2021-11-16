@@ -1,5 +1,3 @@
-#### Hi there 👋
-
 <!--
 **bismarkamanor/bismarkamanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,6 +58,6 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 ![Bismark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismarkamanor&show_icons=true&theme=merko)
 
 ### Current Projects
-[![Expense tracker app](https://github-readme-stats.vercel.app/api/pin/?username=bismarkamanor&repo=expense-tracker-app)](https://github.com/bismarkamanor/github-readme-stats)
+[![Expense tracker app](https://github-readme-stats.vercel.app/api/pin/?username=bismarkamanor&repo=expense-tracker-app)](https://github.com/bismarkamanor/expense-tracker-app)
 
 
