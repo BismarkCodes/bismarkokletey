@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='./images/bismarkamanor.png' style='width: 100%; height: 200px; margin-bottom: 80px; border-radius: 20px; object-fit:contain'>
+<img src='./images/bismarkamanor.png' style='width: 100%;; margin-bottom: 80px; border-radius: 20px;'>
 
 ### Hi there. I am [Bismark Amanor](https://bismarkamanor.vercel.app/) 👋
 
