@@ -59,12 +59,3 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 ![Bismark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismarkamanor&show_icons=true&theme=dark)
 
 
-
-
-### Current Projects
-[![React Native Social Cards](https://github-readme-stats.vercel.app/api/pin/?username=bismarkamanor&repo=react-native-social-cards&theme=github_dark)](https://github.com/bismarkamanor/react-native-social-cards)
-
-
-### My Contributions
-[![Contributions](https://github-readme-stats.vercel.app/api/pin?username=bismarkamanor&repo=react-native-highcharts&theme=github_dark)](https://github.com/bismarkamanor/react-native-highcharts)
-
