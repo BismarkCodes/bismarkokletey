@@ -66,5 +66,5 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 
 ### My Contributions
-[![Contributions](https://github-readme-stats.vercel.app/api?username=bismarkamanor&repo=react-native-highcharts&theme=dark)](https://github.com/bismarkamanor/react-native-highcharts)
+[![Contributions](https://github-readme-stats.vercel.app/api/pin?username=bismarkamanor&repo=react-native-highcharts&theme=dark)](https://github.com/bismarkamanor/react-native-highcharts)
 
