@@ -53,9 +53,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 ## More about me
 
-### GitHub stats
-
+![Bismark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismarkamanor&show_icons=true&theme=github_dark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bismarkamanor&layout=compact&theme=github_dark)](https://github.com/bismarkamanor/github-readme-stats)
-![Bismark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismarkamanor&show_icons=true&theme=dark)
 
 
