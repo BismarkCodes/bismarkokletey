@@ -55,12 +55,16 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 ### GitHub stats
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bismarkamanor&layout=compact&theme=github_dark)](https://github.com/bismarkamanor/github-readme-stats)
 ![Bismark's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismarkamanor&show_icons=true&theme=dark)
 
+
+
+
 ### Current Projects
-[![React Native Social Cards](https://github-readme-stats.vercel.app/api/pin/?username=bismarkamanor&repo=react-native-social-cards&theme=dark)](https://github.com/bismarkamanor/react-native-social-cards)
-
-[![Expense Tracker App](https://github-readme-stats.vercel.app/api/pin/?username=bismarkamanor&repo=expense-tracker-app&theme=dark)](https://github.com/bismarkamanor/expense-tracker-app)
+[![React Native Social Cards](https://github-readme-stats.vercel.app/api/pin/?username=bismarkamanor&repo=react-native-social-cards&theme=github_dark)](https://github.com/bismarkamanor/react-native-social-cards)
 
 
+### My Contributions
+[![Contributions](https://github-readme-stats.vercel.app/api?username=bismarkamanor&repo=react-native-highcharts&theme=dark)](https://github.com/bismarkamanor/react-native-highcharts)
 
