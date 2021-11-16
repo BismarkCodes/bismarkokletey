@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there. I am [Bismark Amanor](bismarkamanor.vercel.app) 👋
+### Hi there. I am [Bismark Amanor](https://bismarkamanor.vercel.app/) 👋
 I'm a software developer and designer based in **Ghana, West Africa**. I am currently working as a front-end developer at **Quacker Technologies Ghana**. I love **playing video games**, **swimming**, **listening to music** and **programming** 🥰
 
 ## What I'm currently working on
