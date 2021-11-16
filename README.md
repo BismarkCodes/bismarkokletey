@@ -21,11 +21,11 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
  1. Expense tracker app built with react
  2. Building my Tech startup
 
-## Connect with me via:
+## Follow me on
 **Github**  | **Facebook** | **Twitter** | **LinkedIn** | **Youtube**
 
 
-## My hard skills:
+## My hard skills
 
  **Front-end:**
  - React and React Native
