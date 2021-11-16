@@ -39,10 +39,10 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 ## Front-end Skills
 
 <div style='display: flex; flex-direction: row; align-items: center;' >
-<span style='width: 40px; height: 40px; margin-right: 30px;'><img src='./images/react.png' style='width: 40px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 40px;'><img src='./images/react.png' style='width: 40px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/redux.png' style='width: 40px;object-fit: contain;' /></span>
-<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/html5.png' style='width: 60px;object-fit: contain;' /></span>
-<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/CSS.png' style='width: 55px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 0px;'><img src='./images/html5.png' style='width: 60px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 0px;'><img src='./images/CSS.png' style='width: 50px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/javascript.png' style='width: 50px;object-fit: contain;' /></span>
 </div>
 
