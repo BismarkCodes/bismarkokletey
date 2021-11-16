@@ -35,9 +35,8 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 </div>
 <!--**Github** | **Facebook** | **Twitter** | **LinkedIn** | **Youtube** -->
 
-## My hard skills
 
-### Front-end:
+## Front-end Skills
 
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/react.png' style='width: 40px;object-fit: contain;' /></span>
@@ -46,20 +45,22 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/CSS.png' style='width: 40px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/javascript.png' style='width: 40px;object-fit: contain;' /></span>
 </div>
-### Back-end:
+
+## Back-end Skills
 
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/firebase.png' style='width: 40px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/node.png' style='width: 65px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/mysql.png' style='width: 65px;object-fit: contain;' /></span>
 </div>
-### People Skills:
+
+## People Skills
 
 - Good communication skills
 - Good team player
 - Good presentation skills
 
-**Degree's and Certificates:**
+## Degree's and Certificates
 
 - BSc. Computer Science - Regional Maritime University, Ghana
 - [Responsive Web Design Certificate - Freecodecamp.org](https://freecodecamp.org/certification/bismarkokletey/responsive-web-design)
