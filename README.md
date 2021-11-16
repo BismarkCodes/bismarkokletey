@@ -43,7 +43,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
  - Good team player
  - Good presentation skills
  
- **Degrees and Certificates:**
+ **Degree's and Certificates:**
 
  - BSc. Computer Science - Regional Maritime University, Ghana
  - [Responsive Web Design Certificate - Freecodecamp.org](https://freecodecamp.org/certification/bismarkokletey/responsive-web-design)
