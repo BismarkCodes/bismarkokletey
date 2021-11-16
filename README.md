@@ -23,6 +23,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
  2. Building my Tech startup
 
 ## Follow me on
+
 **Github**  | **Facebook** | **Twitter** | **LinkedIn** | **Youtube**
 
 
