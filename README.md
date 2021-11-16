@@ -26,12 +26,12 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 ## Follow me on
 
-<ul style='display: flex; flex-direction: row; flex-wrap: wrap; align-items: center;' >
-<li style='margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/github.png' /></a></li>
-<li style='margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/linkedin.png' /></a></li>
-<li style='margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' /></a></li>
-<li style='margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/facebook.png' /></a></li>
-<li style='margin-right: 20px;'><a href='https://github.com/bismarkamanor'><img src='./images/youtube.png' /></a></li>
+<ul style='display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; list-style-type: none;' >
+<li style='margin-right: 20px; width: 30px; height: 30px;'><a href='https://github.com/bismarkamanor'><img src='./images/github.png' /></a></li>
+<li style='margin-right: 20px; width: 30px; height: 30px;'><a href='https://github.com/bismarkamanor'><img src='./images/linkedin.png' /></a></li>
+<li style='margin-right: 20px; width: 30px; height: 30px;'><a href='https://github.com/bismarkamanor'><img src='./images/twitter.png' /></a></li>
+<li style='margin-right: 20px; width: 30px; height: 30px;'><a href='https://github.com/bismarkamanor'><img src='./images/facebook.png' /></a></li>
+<li style='margin-right: 20px; width: 30px; height: 30px;'><a href='https://github.com/bismarkamanor'><img src='./images/youtube.png' /></a></li>
 </ul>
 <!--**Github** | **Facebook** | **Twitter** | **LinkedIn** | **Youtube** -->
 
