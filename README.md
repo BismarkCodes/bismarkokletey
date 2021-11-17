@@ -46,7 +46,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/javascript.png' style='width: 50px;object-fit: contain;' /></span>
 </div>
 
-## Back-end Skills
+## Back-end & Server side Skills
 
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/firebase.png' style='width: 40px;object-fit: contain;' /></span>
