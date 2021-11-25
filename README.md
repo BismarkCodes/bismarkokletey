@@ -41,8 +41,8 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <span style='width: 40px; height: 40px; margin-right: 40px;'><img src='./images/react.png' style='width: 40px;object-fit: contain; margin-right: 20px;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/redux.png' style='width: 40px;object-fit: contain;' /></span>
-<span style='width: 40px; height: 40px; margin-right: 0px;'><img src='./images/html5.png' style='width: 40px;object-fit: contain;' /></span>
-<span style='width: 40px; height: 40px; margin-right: 0px;'><img src='./images/CSS.png' style='width: 40px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 0px;'><img src='./images/html5.png' style='width: 35px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 0px;'><img src='./images/CSS.png' style='width: 35px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/javascript.png' style='width: 40px;object-fit: contain;' /></span>
 </div>
 
@@ -50,8 +50,8 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/firebase.png' style='width: 40px;object-fit: contain;' /></span>
-<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/node.png' style='width: 65px;object-fit: contain;' /></span>
-<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/mysql.png' style='width: 65px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/node.png' style='width: 40px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/mysql.png' style='width: 40px;object-fit: contain;' /></span>
 </div>
 
 ## People Skills
