@@ -51,7 +51,7 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 <div style='display: flex; flex-direction: row; align-items: center;' >
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/firebase.png' style='width: 40px;object-fit: contain;' /></span>
 <span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/node.png' style='width: 40px;object-fit: contain;' /></span>
-<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/mysql.png' style='width: 40px;object-fit: contain;' /></span>
+<span style='width: 40px; height: 40px; margin-right: 20px;'><img src='./images/mysql.png' style='width: 60px;object-fit: contain;' /></span>
 </div>
 
 ## People Skills
