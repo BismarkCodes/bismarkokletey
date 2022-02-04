@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='./images/ba.png' style='width: 100%;; margin-bottom: 80px; border-radius: 20px;'>
+<!-- <img src='./images/ba.png' style='width: 100%;; margin-bottom: 80px; border-radius: 20px;'> -->
 
 ### Hi there. I am [Bismark Amanor](https://bismarkamanor.vercel.app/) 👋
 
@@ -56,7 +56,6 @@ I'm a software developer and designer based in **Ghana, West Africa**. I am curr
 ## People Skills
 
 - Good communication skills
-- Good team player
 - Good presentation skills
 
 ## Degree's and Certificates
