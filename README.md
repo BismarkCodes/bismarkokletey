@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <!-- <img src='./images/ba.png' style='width: 100%;; margin-bottom: 80px; border-radius: 20px;'> -->
 
-### Hi there. I am [Bismark Amanor](https://bismarkamanor.vercel.app/) 👋
+<!-- ### Hi there. I am [Bismark Amanor](https://bismarkamanor.vercel.app/) 👋 -->
+### Hi there. I am Bismark Amanor 👋
 
 I'm a software developer and designer based in **Ghana, West Africa**. I am currently the CTO at **Sika Ghana** and also working as a front-end developer at **Quacker Technologies Ghana**. I love **playing video games**, **swimming**, **listening to music** and **programming** 🥰
 
